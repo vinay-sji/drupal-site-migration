@@ -1,0 +1,5 @@
+name: Custom User Info Form
+description: Custom Form to display user information. Created specifically to demonstrate Migration of Custom Module
+type: module
+package: Drupal Migration
+core: 8.x
