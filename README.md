@@ -14,3 +14,7 @@
 #### 10. Follow the instructions during the Hands on Session for the migration of demo website
 
 #### Google Drive Link: https://drive.google.com/drive/folders/1kU2rG4M_K5Me6ciuEFezhhPlYyoMW4l4?usp=sharing
+
+#### Website Screenshot:
+
+<img src="https://github.com/vinay-sji/drupal-site-migration/blob/master/drupal_site_migration_front_page.jpg" width="700px">
