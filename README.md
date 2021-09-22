@@ -1,6 +1,6 @@
 # Session on Drupal Site Migration
 
-### Agenda
+### Prerequisites
 
 #### 1. Clone the repository
 #### 2. Download the database uploaded on google drive
